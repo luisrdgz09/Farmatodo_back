@@ -1,0 +1,6 @@
+Pokémon: squirtle
+  Evoluciona a: wartortle (Nivel mínimo: 16, Trigger: level-up)
+Pokémon: wartortle
+  Evoluciona a: blastoise (Nivel mínimo: 36, Trigger: level-up)
+Pokémon: blastoise
+['blastoise', 'squirtle', 'wartortle']
