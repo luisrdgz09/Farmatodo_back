@@ -63,10 +63,4 @@ src/
     └── test/                 # Pruebas PyTest + Allure
 ```
 
-### Próximos pasos sugeridos
-
-- Agregar manejo de errores más detallado y pruebas unitarias adicionales.
-- Exponer un archivo `requirements.txt` o `pyproject.toml` con dependencias fijadas.
-- Incorporar validaciones dinámicas para diferentes especies desde parámetros.
-
 
